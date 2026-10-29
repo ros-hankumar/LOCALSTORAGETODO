@@ -1,0 +1,13 @@
+ul { 
+    list-style: none; 
+    padding: 0; 
+}
+li { 
+    padding: 6px; 
+    cursor: pointer; 
+    border-bottom: 1px solid #334155; 
+}
+li.completed { 
+    text-decoration: line-through; 
+    color: #64748b; 
+}
